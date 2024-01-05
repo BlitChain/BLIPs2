@@ -1,6 +1,6 @@
 # BLit Improvement Proposals (BLIPs)
 
-BLit Improvement Proposals (BLIPs) describe standards for the Blitchain project and Blitlang specs.
+BLit Improvement Proposals (BLIPs) describe standards for the Blitchain project, Blitlang specs, and BlitJS clients.
 
 **Before you initiate a pull request**, please read the [BLIP Process](./blips/process.md) document. Ideas should be thoroughly discussed prior to opening a pull request,
 in a [GitHub issue in this repository](https://github.com/BlitChain/BLIPs/issues). BLIPs should begin by copying the
